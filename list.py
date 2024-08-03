@@ -15,15 +15,15 @@
 
 # print(numbers)
 
-fruits = ["มะนาว","มะม่วง","ลำไย","ส้ม","แก้วมังกร"]
-fruits.insert(3, "มะเขือเทศ")
-fruits.insert(0, "Shinchan")
-fruits[2] = "Ultraman"
+# fruits = ["มะนาว","มะม่วง","ลำไย","ส้ม","แก้วมังกร"]
+# fruits.insert(3, "มะเขือเทศ")
+# fruits.insert(0, "Shinchan")
+# fruits[2] = "Ultraman"
 
-มะเขือเทศ = fruits[4]
-Ultraman = fruits[2]
+# มะเขือเทศ = fruits[4]
+# Ultraman = fruits[2]
 
-fruits[2] = มะเขือเทศ
-fruits[4] = Ultraman
+# fruits[2] = มะเขือเทศ
+# fruits[4] = Ultraman
 
-print(fruits)
+# print(fruits)

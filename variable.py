@@ -22,10 +22,10 @@
 # print(type (is_woman))
 # print(type (dont_have_any_things))
 
-text = 'abcdefghijklmnopqrstuvwxyz'
-print(text[4:9])
+# text = 'abcdefghijklmnopqrstuvwxyz'
+# print(text[4:9])
 
-text_2 = "I love Python"
-print(text_2[2:13])
-print(text_2[0:6])
-print(text_2[7:13] +" "+"ง่ายมากๆ")
+# text_2 = "I love Python"
+# print(text_2[2:13])
+# print(text_2[0:6])
+# print(text_2[7:13] +" "+"ง่ายมากๆ")
